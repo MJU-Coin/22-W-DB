@@ -139,13 +139,11 @@
 
 → 기본 연산자 다섯 개와 이들로부터 유도 가능한 유도 연산자로 구분됨
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86cdee96-75ac-4f5c-bce6-222ca298dbb8/Untitled.png)
+https://www.notion.so/Chapter-02-ba5d970ca25848f6b1b0221eae68960b#6e7af3068f6c4ae7883e5fa1f33b35ff
 
 <관계 연산자들의 기능>
 
- 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ed579f9-2287-4bdb-9915-d7d981f23da3/Untitled.png)
+ https://www.notion.so/Chapter-02-ba5d970ca25848f6b1b0221eae68960b#b5aa57ac89e14ab69682b1511a5555f1
 
 ### 관계대수식
 
