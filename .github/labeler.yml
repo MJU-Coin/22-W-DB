@@ -11,21 +11,21 @@
 
 # chapter01~08 라벨링
 Chapter 01:
-- 'ch1/*.md'
+- 'ch1/**/*.md'
 Chapter 02:
-- 'ch2/*.md'
+- 'ch2/**/*.md'
 Chapter 03:
-- 'ch3/*.md'
+- 'ch3/**/*.md'
 Chapter 04:
-- 'ch4/*.md'
+- 'ch4/**/*.md'
 Chapter 05:
-- 'ch5/*.md'
+- 'ch5/**/*.md'
 Chapter 06:
-- 'ch6/*.md'
+- 'ch6/**/*.md'
 Chapter 07:
-- 'ch7/*.md'
+- 'ch7/**/*.md'
 Chapter 08:
-- 'ch8/*.md'
+- 'ch8/**/*.md'
 
 # 발표자료 라벨링
 발표 자료:
