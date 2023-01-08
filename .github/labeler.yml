@@ -3,29 +3,29 @@
 - '**/*.md'
 
 # 조별 라벨링
-#'1조':
-#- '**/1조/*'
+1조:
+- '**/1조/*.md'
 
-#'2조':
-#- '**/2조/*'
+2조:
+- '**/2조/*.md'
 
 # chapter01~08 라벨링
 Chapter 01:
-- ch1/*
+- ch1/*.md
 Chapter 02:
-- ch2/*
+- ch2/*.md
 Chapter 03:
-- ch3/*
+- ch3/*.md
 Chapter 04:
-- ch4/*
+- ch4/*.md
 Chapter 05:
-- ch5/*
+- ch5/*.md
 Chapter 06:
-- ch6/*
+- ch6/*.md
 Chapter 07:
-- ch7/*
+- ch7/*.md
 Chapter 08:
-- ch8/*
+- ch8/*.md
 
 # 발표자료 라벨링
 발표 자료:
