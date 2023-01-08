@@ -1,0 +1,33 @@
+# 기본적으로 요약자료 라벨링(발표자료는 별도 수정 바람)
+요약 자료:
+- '*'
+
+# 조별 라벨링
+1조:
+- **/1조/*
+
+2조:
+- **/2조/*
+
+# chapter01~08 라벨링
+Chapter 01:
+- ch1/*
+Chapter 02:
+- ch2/*
+Chapter 03:
+- ch3/*
+Chapter 04:
+- ch4/*
+Chapter 05:
+- ch5/*
+Chapter 06:
+- ch6/*
+Chapter 07:
+- ch7/*
+Chapter 08:
+- ch8/*
+
+# 발표자료 라벨링
+발표 자료:
+- '**/README.md'
+- '**/readme.md'
